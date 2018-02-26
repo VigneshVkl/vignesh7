@@ -5,6 +5,7 @@ void main()
 char str[10];
 int l=strlen(str);
 int i,count=0;
+clrscr();
 printf("\n Enter the string");
 scanf("%s",str);
 for(i=0;i<=1;i++)
