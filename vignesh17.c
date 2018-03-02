@@ -1,5 +1,5 @@
 #incude<stdio.h>
-void main()
+int main()
 {
 int a=0,b=1,i,c;
 printf("\n enter the numbers");
@@ -12,4 +12,5 @@ b=c;
 printf("\n %d",c);
 }
 getch();
+return 0;
 }
